@@ -3,7 +3,7 @@ See the live version @ [`funpress.github.io/up-n-going`](http://funpress.github.
 
 ---
 
-# You Don't Know JS: Up & Going
+# You Don't Know JS: Up & Going (Manuscripts Book Edition)
 
 by Kyle Simpson
 
