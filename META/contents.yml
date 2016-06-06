@@ -5,11 +5,43 @@
   path:  00__Foreword.md
 - title: Preface
   path:  00__Preface.md
+
 - title: 1. Into Programming
   path:  01__Into_Programming.md
+  sections:
+	- title: Code
+	- title: Try It Yourself
+	- title: Operators
+	- title: Values & Types
+	- title: Code Comments
+	- title: Variables
+	- title: Blocks
+	- title: Conditionals
+	- title: Loops
+	- title: Functions
+	- title: Practice
+  
 - title: 2. Into JavaScript
   path:  02__Into_JavaScript.md
+  sections:
+	- title: Values & Types
+	- title: Variables
+	- title: Conditionals
+	- title: Strict Mode
+	- title: Functions As Values
+	- title: `this` Keyword
+	- title: Prototypes
+	- title: Old & New
+	- title: Non-JavaScript
+  
 - title: 3. Into YDKJS
   path:  03__Into_YDKJS.md
+  sections:
+	- title: Scope & Closures
+	- title: this & Object Prototypes
+	- title: Types & Grammar
+	- title: Async & Performance
+	- title: ES6 & Beyond
+  
 - title: A. Acknowledgments
   path:  A1__Acknowledgments.md
