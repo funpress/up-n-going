@@ -7,7 +7,7 @@ See the live version @ [`funpress.github.io/up-n-going`](http://funpress.github.
 
 by Kyle Simpson
 
-This is the official source reformatted in a single-page book edition (using the public domain [Manuscripts format](http://manuscripts.github.io)).
+This is the official source reformatted in a single-page book edition (using the [Manuscripts format](http://manuscripts.github.io)).
 
 
 ## Meta
