@@ -14,4 +14,4 @@ This is the original source reformatted in a single-page book edition (using the
 
 ### Sources
 
-See the [oirginal source](https://github.com/getify/You-Dont-Know-JS) repo.
+See the [original source](https://github.com/getify/You-Dont-Know-JS) repo.
